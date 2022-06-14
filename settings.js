@@ -26,7 +26,7 @@ global.sp = '⭔'
 //---------( INFO )---------//
 global.youtube = '-'
 global.ig = 'https://instagram.com/lebihkerendariandy_warholl.093'
-global.mygc = 'https://chat.whatsapp.com/Hh71t3HGLE0EL22nxxCnT3'
+global.mygc = 'https://chat.whatsapp.com/GnozSnJ1u2dK2KksHWzRsM'
 global.myweb = 'https://yudzofc'
 global.email = 'wahyudip093@gmail.com'
 global.region = 'spanish'
