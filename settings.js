@@ -24,7 +24,7 @@ global.author = '2022'
 global.sp = '⭔'
 
 //---------( INFO )---------//
-global.youtube = 'https://chat.whatsapp.com/GnozSnJ1u2dK2KksHWzRsM'
+global.youtube = '#'
 global.ig = 'https://instagram.com/lebihkerendariandy_warholl.093'
 global.mygc = 'https://chat.whatsapp.com/GnozSnJ1u2dK2KksHWzRsM'
 global.myweb = 'https://bit.ly/profil_wahyu'
