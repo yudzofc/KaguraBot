@@ -10,12 +10,12 @@ global.APIKeys = {
 }
 
 //---------( SETTING )---------//
-global.owner = ['628569365294','6285600380823']
+global.owner = ['6285693650294','6285600380823']
 global.premium = ['6285693650294','6285600380823']
 global.ownernomer = ['6282252285143','6285600380823']
-global.ownername = ['yuds','Faisal']
-global.botname = 'Yudsbotz'
-global.footer = 'Yudsbotz'
+global.ownername = ['YUDS ','Faisal']
+global.botname = 'YUDSBOTz'
+global.footer = 'YUDSBOTz'
 global.thumb = fs.readFileSync('./image/fake.jpg')
 global.veloriy = fs.readFileSync('./image/kagura.mp4')
 global.sessionName = 'session'
@@ -24,7 +24,7 @@ global.author = '2022'
 global.sp = '⭔'
 
 //---------( INFO )---------//
-global.youtube = '-'
+global.youtube = 'https://chat.whatsapp.com/GnozSnJ1u2dK2KksHWzRsM'
 global.ig = 'https://instagram.com/lebihkerendariandy_warholl.093'
 global.mygc = 'https://chat.whatsapp.com/GnozSnJ1u2dK2KksHWzRsM'
 global.myweb = 'https://bit.ly/profil_wahyu'
