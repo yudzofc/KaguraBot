@@ -1835,7 +1835,7 @@ let gam = await getBuffer(data[0].thumbnail.replace('https://www.anime-planet.co
 var but = [
 {
 "urlButton": {
-"displayText": `Github`,
+"displayText": `ABOUT`,
 "url": `${myweb}`
 }
 }
@@ -1901,7 +1901,7 @@ let buttons = [
 ]
 let buttonMessage = {
 text: `~_${result.quotes}_\n\nBy '${result.karakter}', ${result.anime}\n\n- ${result.up_at}`,
-footer: 'Press The Button Below',
+footer: 'Tekan tombol di bawah',
 buttons: buttons,
 headerType: 2
 }
@@ -3098,7 +3098,7 @@ templateButtons: [
 {
 index: 1, 
 urlButton: {
-displayText: 'YouTube Creator', 
+displayText: 'GRUP BOT OFFICIAL', 
 url: `${youtube}`
 }
 },
