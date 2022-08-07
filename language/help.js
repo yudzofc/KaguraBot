@@ -4,7 +4,7 @@ Saya ${botname}, Bot Ini Adalah Beta Multi-Device WhatsApp.
 Jika Ada Fitur Error Atau Bug Segera Lapor Ke Owner Bot
 
   *INFO BOT*
-  👑 Creator : *Ryan Aditya*
+  👑 Creator : *YUDS*
   👤 Owner : *${ownername}*
   🤖 Bot Name : *${botname}*
   📑 Tanggal : *${tanggal}*
@@ -406,7 +406,7 @@ exports.menusimpel = (botname, pushname, salam, ownername, time, tanggal) => {
 	return`Selamat *${salam}* ${pushname} 👋
 
   *INFO BOT*
-  👑 Creator : *Ryan Aditya*
+  👑 Creator : *YUDS*
   👤 Owner : *${ownername}*
   🤖 Bot Name : *${botname}*
   📑 Tanggal : *${tanggal}*
@@ -965,10 +965,9 @@ exports.ownermenu = (prefix) => {
 exports.thanksto = () => {
 	return`
   👑 *THANKS TO* 👑
-  *≻* DikaArdnt
-  *≻* ZeeoneOfc
-  *≻* FatihArridho
-  *≻* Yoga
-  *≻* Lexxy Official
+  *≻* Faizal
+  *≻* YUDS
+
+
 `
 }
